@@ -4,7 +4,7 @@
         "brand": "Toyota",
         "model": "Supra MK4",
         "year": 1998,
-        "img": "./images/toyota/1998-supra.jpg",
+        "img": "https://github.com/ignaciothompson/cars-api/blob/master/images/toyota/1998-supra.jpg?raw=true",
         "engineConfiguration": "3.0L inline-6 turbo",
         "countryOfProduction": "Japan"
     },
