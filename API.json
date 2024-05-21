@@ -13,7 +13,7 @@
         "brand": "Honda",
         "model": "Civic Type R",
         "year": 2021,
-        "img": "",
+        "img": "https://github.com/ignaciothompson/cars-api/blob/master/images/honda/2021-civic-type-r.jpg?raw=true",
         "engineConfiguration": "2.0L 4-cylinder turbo",
         "countryOfProduction": "UK"
     },
@@ -22,7 +22,7 @@
         "brand": "Ford",
         "model": "GT",
         "year": 2005,
-        "img": "",
+        "img": "https://github.com/ignaciothompson/cars-api/blob/master/images/ford/2005-gt.jpg?raw=true",
         "engineConfiguration": "5.4L supercharged V8",
         "countryOfProduction": "USA"
     },
@@ -38,9 +38,9 @@
     {
         "id": 5,
         "brand": "Nissan",
-        "model": "Skyline GT-R",
+        "model": "Skyline GT-R R34",
         "year": 1999,
-        "img": "",
+        "img": "https://github.com/ignaciothompson/cars-api/blob/master/images/nissan/1999-skyline-gt-r34.jpg?raw=true",
         "engineConfiguration": "2.6L twin-turbo inline-6",
         "countryOfProduction": "Japan"
     },
