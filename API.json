@@ -1276,10 +1276,9 @@
                 {"id": 22, "name": "HR-V 5 Doors"},
                 {"id": 23, "name": "Jazz / Fit"},
                 {"id": 24, "name": "Legend Sedan"},
-                {"id": 25, "name": "NSX"},
-                {"id": 26, "name": "Prologue"},
-                {"id": 27, "name": "e:Ny1"},
-                {"id": 28, "name": "ZR-V"}
+                {"id": 25, "name": "Prologue"},
+                {"id": 26, "name": "e:Ny1"},
+                {"id": 27, "name": "ZR-V"}
             ]
         },  
         {
@@ -1299,8 +1298,8 @@
                 {"id": 11, "name": "Focus"},
                 {"id": 12, "name": "Fusion"},
                 {"id": 13, "name": "Galaxy"},
-                {"id": 14, "name": "GT"},
-                {"id": 15, "name": "GT40"},
+                {"id": 14, "name": "Ford GT"},
+                {"id": 15, "name": "Ford GT40"},
                 {"id": 16, "name": "Ka"},
                 {"id": 17, "name": "Kuga"},
                 {"id": 18, "name": "Model T"},
@@ -1553,8 +1552,7 @@
                 {"id": 12, "name": "Tiguan"},
                 {"id": 13, "name": "e-Golf"},
                 {"id": 14, "name": "Jetta SportWagen"},
-                {"id": 15, "name": "Passat"},
-                {"id": 16, "name": "Touareg"}
+                {"id": 15, "name": "Touareg"}
             ]
         },
         {
@@ -1566,7 +1564,7 @@
                 {"id": 3, "name": "Artura"},
                 {"id": 4, "name": "750S"},
                 {"id": 5, "name": "765LT"},
-                {"id": 6, "name": "GT"},
+                {"id": 6, "name": "McLaren GT"},
                 {"id": 7, "name": "720S"},
                 {"id": 8, "name": "600LT"},
                 {"id": 9, "name": "675LT"},
@@ -2007,12 +2005,10 @@
                 {"id": 9, "name": "Firebird"},
                 {"id": 10, "name": "Bonneville"},
                 {"id": 11, "name": "Firefly"},
-                {"id": 12, "name": "Safari"},
-                {"id": 13, "name": "Ferrari Roma Spider"},
-                {"id": 14, "name": "Vibe"},
-                {"id": 15, "name": "Sunbird"},
-                {"id": 16, "name": "Tempest"},
-                {"id": 17, "name": "Catalina"}
+                {"id": 12, "name": "Vibe"},
+                {"id": 13, "name": "Sunbird"},
+                {"id": 14, "name": "Tempest"},
+                {"id": 15, "name": "Catalina"}
             ]
         },
         {
@@ -2063,11 +2059,10 @@
                 {"id": 13, "name": "Midget"},
                 {"id": 14, "name": "Magnette"},
                 {"id": 15, "name": "1100"},
-                {"id": 16, "name": "1300"},
-                {"id": 17, "name": "XPower SV"},
-                {"id": 18, "name": "R-type"},
-                {"id": 19, "name": "Q-type"},
-                {"id": 20, "name": "18/100 'Tigress'"}
+                {"id": 16, "name": "XPower SV"},
+                {"id": 17, "name": "R-type"},
+                {"id": 18, "name": "Q-type"},
+                {"id": 19, "name": "18/100 'Tigress'"}
             ]
         },
         {
